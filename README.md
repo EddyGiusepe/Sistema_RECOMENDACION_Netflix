@@ -1,6 +1,9 @@
 # Sistema de recomendação de filmes e programas na Netflix
 
-Netflix é um serviço de transmissão de entretenimento lider no mundo com 208 milhões de membresias pagas em mais de 190 paises que disfrutam de séries de televisão, documentais e longa-metragens em uma ampla variedade 
+![image](https://user-images.githubusercontent.com/69597971/147837724-2ee25342-6ac3-4b5f-abf9-d2e4d56e13d5.png)
+
+
+Netflix é um serviço de transmissão de entretenimento lider no mundo com 208 milhões de membresias pagas em mais de 190 paises que disfrutam de séries de televisão, documentais e longa-metragens em uma ampla variedade de gêneros e idiomas. Os membros podem assistir tudo o que queram, em qualquer momento, em qualquer lugar, em qualquer tela conectada a internet. Os membros podem reproduzir, pausar e retomar a visualização, tudo sem propagandas nem compromisos. 
 
 
 
