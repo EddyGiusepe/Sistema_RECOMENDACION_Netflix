@@ -1,4 +1,4 @@
-### Data Scientist Jr.: Dr.Eddy Giusepe Chirinos Isidro 
+#### Data Scientist Jr.: Dr.Eddy Giusepe Chirinos Isidro 
 
 
 # Sistema de recomendação de filmes e programas na Netflix
