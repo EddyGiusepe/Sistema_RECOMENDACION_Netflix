@@ -18,7 +18,7 @@ Este conjunto de Dados estão disponíveis na Netflix a partir de 2019. O conjun
 * A Netflix tem se concentrado cada vez mais na TV ao invés de filmes nos últimos anos?.
 
 
-Neste Notebook trataremos com Dados de filmes e programas de TV da Netflix que é focado na análise de Dados de exploração. Basicamente, implementaremos um SISTEMA DE RECOMENDAÇÃO de filmes usando: **_Cosine Similarity_**.
+Neste Notebook trataremos com Dados de filmes e programas de TV da Netflix que é focado na análise de Dados de exploração. Basicamente, implementaremos um SISTEMA DE RECOMENDAÇÃO de filmes usando: **[_Cosine Similarity_](https://www.youtube.com/watch?v=Gc7otqkPq2g)**.
 
 Link de descarga e estudo:
 
