@@ -1,3 +1,6 @@
+# Data Scientist Jr.: Dr.Eddy Giusepe Chirinos Isidro 
+
+
 # Sistema de recomendação de filmes e programas na Netflix
 
 ![image](https://user-images.githubusercontent.com/69597971/147837724-2ee25342-6ac3-4b5f-abf9-d2e4d56e13d5.png)
@@ -17,6 +20,11 @@ Este conjunto de Dados estão disponíveis na Netflix a partir de 2019. O conjun
 
 Neste Notebook trataremos com Dados de filmes e programas de TV da Netflix que é focado na análise de Dados de exploração. Basicamente, implementaremos um SISTEMA DE RECOMENDAÇÃO de filmes usando: **_Cosine Similarity_**.
 
+Link de descarga e estudo:
+
+* Os Dados podem ser descarregados na [Kaggle - Netflix](https://www.kaggle.com/shivamb/netflix-shows/version/4).
+
+* [Sistema de recomendação](https://www.youtube.com/watch?v=aatztrDAz4I).
 
 
-
+Thanks God!
